@@ -151,13 +151,6 @@
                                         </webApp>
                                 </configuration>
                         </plugin>
-                        <!--
-                        <plugin>
-                                <groupId>org.sonarsource.scanner.maven</groupId>
-                                <artifactId>sonar-maven-plugin</artifactId>
-                                <version>3.9.1.2184</version> <!-- or the latest compatible version -->
-                        </plugin>
-                        -->
 
                         <plugin>
                                 <groupId>org.apache.maven.plugins</groupId>
